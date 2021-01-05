@@ -7,15 +7,4 @@ body {
     background-clip: border-box;
     background-origin: content-box;
     background-repeat: no-repeat;
-
-    
-    /* background: #1D4350;  /* fallback for old browsers */
-    /* background: -webkit-linear-gradient(to left, #A43931, #1D4350);  /* Chrome 10-25, Safari 5.1-6 */
-    /* background: linear-gradient(to left, #A43931, #1D4350); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ */ */
-
-    /* background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
-    background-position: center; */
-
-    /* background: rgb(34,193,195);
-    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%); */
 }
